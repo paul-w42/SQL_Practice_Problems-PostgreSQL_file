@@ -1,10 +1,10 @@
 # PostgreSQL Database - book SQL Practice Problems
 
-This is a PostgreSQL compatible sql file to create the database used in the book **SQL Practice Problems**, written by Silvia Moestl Vasilik.
+This repository contains a PostgreSQL compatible SQL file to create the database used in the book **SQL Practice Problems** written by Silvia Moestl Vasilik.
 
 The books website is [SQLPracticeProblems.com](SQLPracticeProblems.com)
 
-Thanks goes to **Silvia Moestl Vasilik** for permission to post this file.
+A big Thank You to **Silvia Moestl Vasilik** for permission to modify the original database file.
 
 ## Usage
 
