@@ -1,5 +1,5 @@
-﻿/** DROP DATABASE IF EXISTS northwind_spp; 
-CREATE DATABASE northwind_spp; **/
+DROP DATABASE IF EXISTS northwind_spp; 
+CREATE DATABASE northwind_spp;
 
 DROP TABLE IF EXISTS categories CASCADE;
 DROP TABLE IF EXISTS customergroupthresholds CASCADE;
